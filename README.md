@@ -7,13 +7,18 @@ This project focuses on risk prediction and trend detection for accidents using 
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Project Structure](#project-structure)
 - [Models](#models)
 - [Visualization](#visualization)
 - [Performance Metrics](#performance-metrics)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
-
+## Installation
+To get started with this project, clone the repository and install the required dependencies:
 
 ```sh
-
+git clone https://github.com/88888834/ACCIDENTS-RISK-PREDICTION-AND-IDENTIFYING-KEY-FACTORS-TO-THIS-RISK.git
+cd ACCIDENTS-RISK-PREDICTION-AND-IDENTIFYING-KEY-FACTORS-TO-THIS-RISK
+pip install -r requirements.txt
