@@ -7,7 +7,7 @@ This project focuses on risk prediction and trend detection for accidents using 
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
+- [Project structure](#project-structure)
 - [Models](#models)
 - [Visualization](#visualization)
 - [Performance Metrics](#performance-metrics)
