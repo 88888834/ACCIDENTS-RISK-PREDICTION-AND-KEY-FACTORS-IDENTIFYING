@@ -1,0 +1,17 @@
+ACCIDENTS-RISK-PREDICTION-AND-IDENTIFYING-KEY-FACTORS-TO-THIS-RISK/
+│
+├── data_preprocessing/
+│   ├── Choix des methodes d'imputatioN_MISSING_VALUES .py
+│   ├── EDA(Accident)-MISSING VALUES.py
+│   ├── DATA UNION 1.py
+│   └── Feature engeneering and outliers detection.py
+│
+├── models/
+│   └── MODEL SELECTION2205 (4).py
+│
+├── visualization/
+│   ├── powerbi_visualization.pbix
+│   └── Result visualisation .py
+│
+├── requirements.txt
+└── README.md
