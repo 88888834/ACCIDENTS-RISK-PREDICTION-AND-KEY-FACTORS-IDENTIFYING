@@ -16,6 +16,4 @@ This project focuses on risk prediction and trend detection for accidents using 
 
 
 ```sh
-git clone https://github.com/88888834/ACCIDENTS-RISK-PREDICTION-AND-IDENTIFYING-KEY-FACTORS-TO-THIS-RISK.git
-cd ACCIDENTS-RISK-PREDICTION-AND-IDENTIFYING-KEY-FACTORS-TO-THIS-RISK
-pip install -r requirements.txt
+
